@@ -9,6 +9,8 @@ Getting it up and running is only a few minutes.
 
 To view the visualization, download the processing tool that can run on your laptop, ( Mac, Windows, Linux etc ) this is open source and has many bells and whistles that goes with the application. Coding this visualization tool is similar to 'C' and the IDE is similar to the Arduino IDE.
 
+![alt tag](https://cloud.githubusercontent.com/assets/14288989/18814966/99b6eb5a-833f-11e6-8294-c8c5e1a53e43.png)
+
 Here I have the code which is similar to the 'C' language and the interface to the Processing IDE is similar to the Arduino IDE.
 
 There are 2 parts to get the visualization working:
