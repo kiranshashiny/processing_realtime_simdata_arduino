@@ -11,8 +11,8 @@ To view the visualization, download the processing tool that can run on your lap
 
 Here I have the code which is similar to the 'C' language and the interface to the Processing IDE is similar to the Arduino IDE.
 
-There are 2 parts to the code :
-One is run on the Processing IDE, and the other is run on the Arduino which simulates the temperature readings from the Microcontroller and prints it to Serial output.
+There are 2 parts to get the visualization working:
+One is pde file that is the sketch to be run on the Processing IDE ( realtime_tempdata.pde ) , and the other ( sketch_sep25a.ino) that is run on the Arduino which simulates the temperature readings from the Microcontroller and prints it to Serial output.
 The Processing IDE captures that - and prints that Visualization data in the form of a Bar Chart. One can use other types of charts as well.
 
 To get this running - have the Arduino Uno connected to the laptop and also the Processing IDE running at the same time ( as this is real-time data )
@@ -24,6 +24,8 @@ Enjoy !
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/18814713/3a53dda4-8339-11e6-8e96-6962a77efa15.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/18814712/3a50e086-8339-11e6-95f5-38ce0eef11c4.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/14288989/18814811/91875bd0-833b-11e6-82f7-bde3a264ca26.png)
+![alt tag](https://cloud.githubusercontent.com/assets/14288989/18814828/de2e45c0-833b-11e6-8b5b-95f69875da18.png)
+
 
 
 
